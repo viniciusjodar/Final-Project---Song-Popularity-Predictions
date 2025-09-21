@@ -1,0 +1,5 @@
+Model,Accuracy Train,Accuracy Test,Balanced Acc Train,Balanced Acc Test,Weighted F1 Train,Weighted F1 Test,ROC AUC Train,ROC AUC Test
+RandomForest,0.992,0.982,0.995,0.793,0.993,0.981,0.998,0.95
+XGBoost,0.986,0.972,0.993,0.808,0.987,0.974,0.999,0.928
+CatBoost,0.949,0.936,0.974,0.826,0.961,0.951,0.997,0.926
+Ensemble,0.991,0.977,0.897,0.629,0.991,0.973,0.998,0.931
